@@ -1,0 +1,14 @@
+#kentFaFeed { width:300px; height:280px; background-image:url(widget-kentfa.png); }
+#newsPlacer { width:276px; height:191px; background-color:#ffffff; float:left; margin:7px; padding:5px; }
+
+p.feedItem a { font-family:arial,helvetica,sans-serif; font-size:13px; color:#000000; padding:0; margin:0px 0px 0px 0px; text-decoration:none; }
+p.feedItem a:hover { text-decoration:underline; }
+
+p.feedHeading { font-family:arial,helvetica,sans-serif; font-size:15px; letter-spacing:0.4pt; line-height:17px; color:#ffffff; padding:0; padding-right: 43px; margin:0px 0px 0px 7px; }
+p.feedHeading span { font-size:11px; }
+
+p.feedLinks { font-family:arial,helvetica,sans-serif; font-size:11px; letter-spacing:0.4pt; color:#ffffff; line-height:0px; padding:0; padding-right: 43px; margin:17px 0px 0px 7px; }
+a.feedLink:link { text-decoration:none; color:#ffffff; }
+a.feedLink:active { text-decoration:none; color:#ffffff; }
+a.feedLink:visited { text-decoration:none; color:#ffffff; }
+a.feedLink:hover { text-decoration:underline; color:#ffffff; }
